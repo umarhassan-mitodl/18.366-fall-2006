@@ -4,8 +4,6 @@ description: ''
 file: /courses/18-366-random-walks-and-diffusion-fall-2006/bb4100486c4b5bf6acd536f164f5572b_lec21_ken.pdf
 file_size: 112400
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

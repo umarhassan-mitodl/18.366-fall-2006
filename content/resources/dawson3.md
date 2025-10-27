@@ -5,8 +5,6 @@ description: This resource contains information about Approximations using Dawso
 file: /courses/18-366-random-walks-and-diffusion-fall-2006/702ff45247087c2a1f606b0549bcabbd_dawson3.pdf
 file_size: 126665
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

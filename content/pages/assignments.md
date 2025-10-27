@@ -2,8 +2,6 @@
 content_type: page
 description: This section gives information on assigned problem sets with their topics
   and solutions for the problem sets.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

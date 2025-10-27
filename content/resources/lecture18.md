@@ -5,8 +5,6 @@ description: 'This file includes the following topics: Normal diffusion, Exponen
 file: /courses/18-366-random-walks-and-diffusion-fall-2006/74e393b5937cbcd5d685f66f3ffce0f0_lecture18.pdf
 file_size: 204380
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

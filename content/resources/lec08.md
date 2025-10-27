@@ -4,8 +4,6 @@ description: ''
 file: /courses/18-366-random-walks-and-diffusion-fall-2006/fe27384e7218a6d73ba9e7b41f65ca5e_lec08.pdf
 file_size: 163520
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

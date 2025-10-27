@@ -5,8 +5,6 @@ description: 'Includes topics: Dynamic hedging, binomial tree, continuum limit, 
 file: /courses/18-366-random-walks-and-diffusion-fall-2006/837a728eb6a6bfa3ac5b91bb9b044e30_lec12.pdf
 file_size: 124809
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

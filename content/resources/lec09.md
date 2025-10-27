@@ -6,8 +6,6 @@ description: 'Includes topics: Continuum approximation of the position of?a?rand
 file: /courses/18-366-random-walks-and-diffusion-fall-2006/b1780b82943dc6c7f88ce033021031ad_lec09.pdf
 file_size: 168846
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,8 +2,6 @@
 content_type: page
 description: This section gives the topics and files for the two midterm exams with
   their solutions.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 ocw_type: CourseSection

@@ -5,8 +5,6 @@ description: 'Includes topics: Introduction, applications, one dimension: integr
 file: /courses/18-366-random-walks-and-diffusion-fall-2006/86891f19fee918f574aa14106ff562cb_lec16.pdf
 file_size: 152865
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

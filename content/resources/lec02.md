@@ -5,8 +5,6 @@ description: 'Includes topics: The?position?of?a random?walk, moments?and cumula
 file: /courses/18-366-random-walks-and-diffusion-fall-2006/52f5cd1ad7315858f2759bdc2636ba0e_lec02.pdf
 file_size: 183851
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

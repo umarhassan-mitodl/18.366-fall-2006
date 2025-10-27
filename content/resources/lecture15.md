@@ -7,8 +7,6 @@ description: 'This file includes the following topics:
 file: /courses/18-366-random-walks-and-diffusion-fall-2006/cc680facdd4dee9189e86c6d115a7700_lecture15.pdf
 file_size: 284577
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

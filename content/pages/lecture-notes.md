@@ -2,8 +2,6 @@
 content_type: page
 description: This section contains information on lecture topics and associated files
   for the lectures.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -579,7 +577,7 @@ Conformal Transformations (Analytic Functions of the Plane, Stereographic Projec
 
 2003 Lecture 23 ({{% resource_link 8037472f-2d3b-6e54-6772-4f52aa7e2d7b "PDF" %}})
 
-An [Article](http://dx.doi.org/10.1098/rspa.2003.1218)
+An {{% resource_link "02c2605b-5011-434b-bdd4-af8e4665dd6a" "Article" %}}
 
 Redner
 
@@ -670,7 +668,7 @@ Non-identical Steps
 
 2003 Lecture 15 ({{% resource_link cc680fac-dd4d-ee91-89e8-6c6d115a7700 "PDF" %}})
 
-A [Review Article](http://de.arxiv.org/abs/cond-mat/0409439)
+A {{% resource_link "47b03bb7-9dda-486c-99ff-2833b0e58adc" "Review Article" %}}
 
 
 {{< tdclose >}}

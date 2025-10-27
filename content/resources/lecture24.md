@@ -5,8 +5,6 @@ description: 'This file includes the following topics: Laurent expansion, Area e
 file: /courses/18-366-random-walks-and-diffusion-fall-2006/d62e743ec09689e22851ac5e95d2b08e_lecture24.pdf
 file_size: 159427
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

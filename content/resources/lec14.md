@@ -6,8 +6,6 @@ description: 'Includes topics: Physical model, biased Bernoulli walk, biased con
 file: /courses/18-366-random-walks-and-diffusion-fall-2006/0a8bdd9c04730a715ad5d54640a3702a_lec14.pdf
 file_size: 172659
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

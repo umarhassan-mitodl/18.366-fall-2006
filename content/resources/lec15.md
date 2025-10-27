@@ -5,8 +5,6 @@ description: 'Includes topics: Motion?in?constant?force, escape from a trap (Kra
 file: /courses/18-366-random-walks-and-diffusion-fall-2006/a72f03547184f52369688acfd68d1c7f_lec15.pdf
 file_size: 162578
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

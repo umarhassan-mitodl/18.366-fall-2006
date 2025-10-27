@@ -5,8 +5,6 @@ description: This resource contains information about Laplace Transforms, Random
 file: /courses/18-366-random-walks-and-diffusion-fall-2006/f3713d068fc4f5de471d599badfa9691_lec23_chris_06.pdf
 file_size: 326607
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

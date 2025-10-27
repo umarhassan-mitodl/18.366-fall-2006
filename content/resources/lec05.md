@@ -6,8 +6,6 @@ description: 'Includes topics: Singular characteristic functions, generalized Gr
 file: /courses/18-366-random-walks-and-diffusion-fall-2006/5d1c2ccd7d2a46ff3379d848ff5ccd89_lec05.pdf
 file_size: 221833
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
